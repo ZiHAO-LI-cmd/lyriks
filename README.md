@@ -2,6 +2,8 @@
 
 A Spotify 2.0 Clone Music App with React 18 (Tailwind, Redux, RapidAPI)
 
+Deploy by [Netlify](https://www.netlify.com/), see https://joyful-lyriks-d747fa.netlify.app/
+
 According to the original [project](https://github.com/adrianhajdin/project_music_player)
 
 <figure class="half">
